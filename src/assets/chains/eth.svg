@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>1</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-33.000000, -40.000000)">
+            <g transform="translate(33.000000, 40.000000)">
+                <circle fill-opacity="0.1" fill="#000000" cx="15" cy="15" r="15"></circle>
+                <g transform="translate(8.000000, 5.000000)" fill-rule="nonzero">
+                    <polygon id="Fill-1" fill="#8C8C8C" points="6.875 0 0.348684211 10.3157895 6.875 7.49473684"></polygon>
+                    <polygon id="Fill-2" fill="#383838" points="0.348684211 10.3423147 6.875 13.8947368 6.875 7.57894737"></polygon>
+                    <polygon id="Fill-3" fill="#8C8C8C" points="6.875 20 6.875 14.9210663 0.348684211 11.1578947"></polygon>
+                    <polygon id="Fill-4" fill="#343434" points="6.875 0 6.875 7.49473684 13.4013158 10.3157895"></polygon>
+                    <polygon id="Fill-5" fill="#141414" points="6.875 13.8947368 13.4013158 10.3423147 6.875 7.57894737"></polygon>
+                    <polygon id="Fill-6" fill="#343434" points="6.875 14.9210663 6.875 20 13.4013158 11.1578947"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
